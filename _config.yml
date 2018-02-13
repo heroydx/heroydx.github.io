@@ -4,7 +4,7 @@ SEOTitle: 东晓的博客 | heroydx Blog
 header-img: img/post-bg-desk.jpg
 email: yangdongxiao666@gmail.com
 description: "分享是一个好习惯"
-keyword: "heroydx, heroydx Blog, 杨东晓的博客, yangdongxiao, 杨东晓, Arduino, Python"
+keyword: "heroydx, heroydx Blog, 东晓的博客, yangdongxiao, 杨东晓, Arduino, Python"
 url: "http://heroydx.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/heroydx/heroydx.github.io.git" # you code repository
@@ -12,7 +12,7 @@ github_repo: "https://github.com/heroydx/heroydx.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "自闭桃源称太古，欲栽大木柱长天。"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-ydx-puppy.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
