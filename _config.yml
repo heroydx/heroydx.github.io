@@ -62,8 +62,8 @@ disqus_username: heroydx
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 129761b49dce0bde599b   #生成的clientID
-  clientSecret: 16992615b8530a9a7fc55e33ee002fe534dabfbc  #同上
+  clientID: 2c9432e35326cec643d0   #生成的clientID
+  clientSecret: efbf92e200bf0a3b6955a51f7d3b4a84338d87a2  #同上
   repo: issue    #仓库名称
   owner: heroydx    #github用户名
   admin: ['heroydx']
