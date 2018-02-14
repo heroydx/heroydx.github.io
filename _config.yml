@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: afecc82758c43fdcabc6   #生成的clientID
-  clientSecret: 4013cca2bece4c1b7886b2b27e362d50022b07cc  #同上
+  clientID: 129761b49dce0bde599b   #生成的clientID
+  clientSecret: 16992615b8530a9a7fc55e33ee002fe534dabfbc  #同上
   repo: issue    #仓库名称
   owner: heroydx    #github用户名
   admin: ['heroydx']
