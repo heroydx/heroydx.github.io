@@ -14,7 +14,8 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "自闭桃源称太古，欲栽大木柱长天。"
 sidebar-avatar: /img/about-ydx-puppy.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-
+# download shows
+show_downloads: true
 
 # SNS settings
 RSS: false
