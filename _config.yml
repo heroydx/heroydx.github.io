@@ -101,7 +101,7 @@ service-worker: true
 friends: [
     {
         title: "BY",
-        href: "http://wwwhttp://qiubaiying.top/"
+        href: "http://qiubaiying.top/"
     },{
         title: "Arduino",
         href: "https://www.arduino.cc/"
